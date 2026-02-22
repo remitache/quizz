@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is Goku's Saiyan name?",
+    "answers": ["Kakarot", "Vegeta", "Raditz", "Bardock"],
+    "correct": 0
+  },
+  {
+    "question": "Who is Goku's first martial arts teacher?",
+    "answers": ["Master Roshi", "King Kai", "Kami", "Korin"],
+    "correct": 0
+  },
+  {
+    "question": "What technique does Goku learn from King Kai?",
+    "answers": ["Spirit Bomb", "Kamehameha", "Solar Flare", "Destructo Disc"],
+    "correct": 0
+  },
+  {
+    "question": "How many Dragon Balls are needed to summon Shenron?",
+    "answers": ["7", "5", "6", "8"],
+    "correct": 0
+  },
+  {
+    "question": "What is Vegeta's title on Planet Vegeta?",
+    "answers": ["Prince", "King", "General", "Commander"],
+    "correct": 0
+  },
+  {
+    "question": "Who defeats Frieza on Planet Namek?",
+    "answers": ["Super Saiyan Goku", "Vegeta", "Piccolo", "Gohan"],
+    "correct": 0
+  },
+  {
+    "question": "What is the name of Goku and Chi-Chi's second son?",
+    "answers": ["Goten", "Gohan", "Trunks", "Pan"],
+    "correct": 0
+  },
+  {
+    "question": "Which Android was created from a human base?",
+    "answers": ["Android 17", "Android 19", "Android 16", "Cell"],
+    "correct": 0
+  },
+  {
+    "question": "What is the fusion technique performed by Goten and Trunks?",
+    "answers": ["Fusion Dance", "Potara Earrings", "Namekian Fusion", "Absorption"],
+    "correct": 0
+  },
+  {
+    "question": "Who kills Cell in the Cell Games?",
+    "answers": ["Gohan", "Goku", "Vegeta", "Trunks"],
+    "correct": 0
+  },
+  {
+    "question": "What is Krillin's signature attack?",
+    "answers": ["Destructo Disc", "Kamehameha", "Tri-Beam", "Wolf Fang Fist"],
+    "correct": 0
+  },
+  {
+    "question": "Which form does Frieza take as his final transformation?",
+    "answers": ["Fourth Form", "Second Form", "Third Form", "Mecha Frieza"],
+    "correct": 0
+  },
+  {
+    "question": "What planet are the Namekians from?",
+    "answers": ["Planet Namek", "Planet Vegeta", "Planet Yardrat", "Planet Kanassa"],
+    "correct": 0
+  },
+  {
+    "question": "Who is the creator of the Dragon Balls on Earth?",
+    "answers": ["Kami", "King Piccolo", "Dende", "Mr. Popo"],
+    "correct": 0
+  },
+  {
+    "question": "What is the name of Bulma and Vegeta's son?",
+    "answers": ["Trunks", "Goten", "Gohan", "Bra"],
+    "correct": 0
+  },
+  {
+    "question": "Which Saiyan transformation has blue hair?",
+    "answers": ["Super Saiyan Blue", "Super Saiyan 3", "Ultra Instinct", "Super Saiyan 4"],
+    "correct": 0
+  },
+  {
+    "question": "What is the name of the tournament held by the god of destruction?",
+    "answers": ["Tournament of Power", "Cell Games", "World Martial Arts Tournament", "Other World Tournament"],
+    "correct": 0
+  },
+  {
+    "question": "Who taught Gohan to fight during the Saiyan Saga?",
+    "answers": ["Piccolo", "Goku", "Master Roshi", "Krillin"],
+    "correct": 0
+  },
+  {
+    "question": "What is Yamcha's signature technique?",
+    "answers": ["Wolf Fang Fist", "Kamehameha", "Spirit Ball", "Solar Flare"],
+    "correct": 0
+  },
+  {
+    "question": "What is the Hyperbolic Time Chamber's main feature?",
+    "answers": ["1 year inside = 1 day outside", "Infinite gravity", "Unlimited food", "Eternal darkness"],
+    "correct": 0
+  }
+]
