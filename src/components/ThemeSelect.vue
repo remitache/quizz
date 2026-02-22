@@ -115,4 +115,48 @@ const themes = [
   color: rgba(255, 255, 255, 0.7);
   text-align: center;
 }
+
+@media (max-width: 500px) {
+  .theme-select {
+    padding: 1rem 0.5rem;
+  }
+
+  .title {
+    font-size: 2.8rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .theme-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .theme-card {
+    padding: 1.5rem 1rem;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .theme-emoji {
+    font-size: 2.4rem;
+  }
+
+  .theme-name {
+    font-size: 1.3rem;
+  }
+
+  .theme-desc {
+    text-align: left;
+    font-size: 0.85rem;
+  }
+
+  .theme-card > :not(.theme-emoji) {
+    text-align: left;
+  }
+}
 </style>

@@ -142,16 +142,36 @@ const message = computed(() => {
 }
 
 @media (max-width: 500px) {
+  .score-board {
+    padding: 1.5rem 0.5rem;
+    min-height: 50vh;
+  }
+
   .score-card {
-    padding: 2rem;
+    padding: 2rem 1.5rem;
+    border-radius: 22px;
+    width: 100%;
+  }
+
+  .trophy {
+    font-size: 3rem;
   }
 
   .score-title {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
 
   .score-number {
-    font-size: 4rem;
+    font-size: 3.5rem;
+  }
+
+  .score-total {
+    font-size: 1.5rem;
+  }
+
+  .play-again-btn {
+    width: 100%;
+    padding: 1rem 2rem;
   }
 }
 </style>

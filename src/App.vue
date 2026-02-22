@@ -1,7 +1,7 @@
 <template>
   <div class="app">
     <ThemeSelect v-if="screen === 'theme'" @select="startQuiz" />
-    <QuizGame v-else-if="screen === 'quiz'" :questions="questions" @finish="showScore" />
+    <QuizGame v-else-if="screen === 'quiz'" :questions="questions" @finish="showScore" @quit="restart" />
     <ScoreBoard v-else :score="finalScore" :total="10" @restart="restart" />
   </div>
 </template>
